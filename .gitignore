@@ -1,2 +1,4 @@
-obj/*.*
-out/*.*
+obj/*.o
+out/*.elf
+out/*.srec
+out/*.bin

@@ -1,2 +1,0 @@
-rm obj/*.*
-rm out/*.*

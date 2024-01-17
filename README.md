@@ -3,7 +3,10 @@ Simple freestanding operating system for the Realtek RTL8196C SoC.
 MIPSel, using mipssim in QEMU for now, until I unbrick my router.
 
 ## Building
-`./build.sh`
+`make`
+
+### Running
+`make run`
 
 ## Cleaning
-`./clean.sh`
+`make clean`
